@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://shakal194.github.io/project-filmoteka",
+  "homepage": "https://shakal194.github.io/project-filmoteka/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-filmoteka/"
